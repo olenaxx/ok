@@ -9,7 +9,7 @@
 body {
   font-family: 'Caveat', cursive;
   /* background-image: url('./assets/4ce21cc680a4222cc189f1dc83cee091.jpg'); */
-  background-image: url('./assets/7f2c0135-4741-41de-b6b7-6567295eb614.txt');
+  background-image: url('./assets/3c2e5561e62f917903e2ca1987a82932.jpg');
   /* background-image: url('./assets/b75374ab3a59c52b8553436bc4df053e.jpg'); */
   background-position: center;
   background-size: cover;
@@ -35,7 +35,6 @@ p {
   font-size: 28px;
   font-weight: 700;
   color: rgb(7, 45, 46);
-  /* color: #fff; */
 }
 
 span {
@@ -49,5 +48,5 @@ span {
   justify-content: end;
   margin-left: auto;
   margin-top: 50px;
-  color: rgb(7, 45, 46);
+  /* color: rgb(7, 45, 46); */
 }
