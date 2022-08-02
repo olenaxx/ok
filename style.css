@@ -19,6 +19,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
   padding: 20px;
 }
 
@@ -26,14 +27,12 @@ h1{
   font-size: 36px;
   margin: 0 auto;
   margin-bottom: 50px;
-  color: rgb(9, 49, 19);
-  /* color: aliceblue; */
+  color: rgb(13, 65, 26);
 }
 
 p {
   font-size: 28px;
   font-weight: 700;
-  /* color: aliceblue; */
   color: rgb(7, 45, 46);
 }
 
@@ -47,6 +46,5 @@ span {
   display: flex;
   justify-content: end;
   margin: 50px auto 0 auto;
-  /* color: aliceblue; */
   color: rgb(7, 45, 46);
 }
